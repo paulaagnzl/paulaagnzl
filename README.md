@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Paula 👋
 
-<!--
-**paulaagnzl/paulaagnzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a university student focused on learning and building projects to improve my skills. 
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 📚 Currently studying Computer Science & Business.
+- 💻 Interested in software development, programming, and tech.
+- 🛠️ Tech stack I'm practicing with: **C++**, **Java**, and **Git**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+On their way 
+
+## 📬 Contact
+- 📧 paulaa.gonzl21@gmail.com
